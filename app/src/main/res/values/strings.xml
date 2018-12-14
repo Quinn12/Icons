@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Icons</string>
+    <string name="title">Currency Converter</string>
+    <string name="hint">Currency Conversions</string>
+    <string name="usd_to_gbp">Convert American (USD) to British (GBP)</string>
+    <string name="gbp_to_usd">Convert British (GBP) to American (USD)</string>
+    <string name="btn_convert">Convert</string>
+</resources>
